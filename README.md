@@ -37,6 +37,3 @@ Server – Embedded Tomcat
 
 
 
----
-
-👉 Would you like me to also add a “How to Run the Project” section (setup steps + sample SQL table schema) so it’s ready for GitHub README?
